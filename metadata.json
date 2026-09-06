@@ -1,0 +1,6 @@
+{
+  "name": "Good7",
+  "description": "App minimalista de controle de estudos com abas de matérias, 7 ciclos de revisão, progresso em barra roxa e estatísticas semanais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
